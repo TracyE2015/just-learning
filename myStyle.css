@@ -1,0 +1,56 @@
+/*
+
+   Author: Tracy Evans
+			Date:  April 10, 2016
+
+			Filename: myStyle.css        
+			Supporting files: (main)natureIndex.html
+							  (img) Fall Nature_sm, Flower Nature_sm, Nature Trees_sm, Purple Moon_sm,
+	                          (css) css/bootstrap.min.css,
+						      (js) js/jquery-2.1.3.min.js, js/bootstrap.min.js
+			Description: This is just a test website to practice on my Bootstrap. I like nature
+	                     so I am using nature photos.
+
+*/
+
+/* Body Styles */
+
+body {
+	background-color: #c3eba6;
+	margin: 0px auto;
+}
+
+/* Container Styles */
+
+.naturesContainer {
+	background-color: #cdebb9;	
+}
+
+/* Page Header Styles */
+
+.page-header {
+	text-align: center;
+}
+
+/* Picture Styles */
+
+#dolphin {
+	img-align: center;
+}
+
+.col-sm-3 {
+	padding-bottom: 20px;
+}
+
+/* Paragraph Text Styles */
+
+#paragraphText {
+	font: bold;
+	font-style: italic;
+    font-size: 30px;
+	padding: 20px;	
+}
+
+footer {
+	margin-left: 20px;
+}
