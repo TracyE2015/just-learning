@@ -1,0 +1,41 @@
+/**
+ 
+      Author: Tracy Evans
+      Date:  August 22, 2016
+
+      Filename: mystyle.css        
+      Supporting files: index.html, about.html, original_series.html, next_generation.html, new_series.html, klingon.html, romulan.html, shipsTestTrials.html
+	  
+	  Description: Changing one of the websites I created as a class project into a bootstrap responsive website. These are the styles I chose to modify for this template.
+
+  */
+  
+
+body {
+	margin: 0px;
+	background-color: #EEEFF1;
+	background-image: url(../images/earth.jpg);
+}
+
+.page-header {
+	color: white;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+footer {
+	color: #6F7E82;
+}
