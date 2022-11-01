@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Musical Structure</string>
+    <string name="playlist">Playlist Artist</string>
+    <string name="earth_wind_and_fire">Earth Wind and Fire Radio</string>
+    <string name="maze">Maze Radio</string>
+    <string name="the_spinners">The Spinners Radio</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_earthwindfire">Earth Wind and Fire</string>
+    <string name="category_maze">Maze</string>
+    <string name="category_spinners">The Spinners</string>
+    <string name="title">title</string>
+    <string name="artist">artist</string>
+    <string name="now_playing">Now Playing</string>
+
+</resources>
